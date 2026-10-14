@@ -1,0 +1,10 @@
+{
+  "domain": "mosenergosbyt",
+  "name": "Мосэнергосбыт",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/your-username/mosenergosbyt-ha",
+  "iot_class": "cloud_polling",
+  "requirements": ["aiohttp>=3.9.0"],
+  "version": "1.0.0"
+}
